@@ -1,0 +1,9 @@
+/.venv/
+/.vscode/
+/__pycache__/
+
+*.code-workspace
+
+*.mp3
+*.wav
+
