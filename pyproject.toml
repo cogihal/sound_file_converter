@@ -1,0 +1,11 @@
+[project]
+name = "sound-file-converter"
+version = "1.0.0"
+description = "MP3 & Wave file converter sample scripts"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydub>=0.25.1",
+    "numpy>=2.3.0",
+    "matplotlib>=3.10.3",
+]

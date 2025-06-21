@@ -250,8 +250,8 @@ options:
 ## Developing environments
 
 - Windows 11 Pro
-- Python 3.12.7
+- Python 3.13.4
 - pydub==0.25.1
-- numpy==2.2.1
-- matplotlib==3.10.0
+- numpy==2.3.0
+- matplotlib==3.10.3
 - ffmpeg version 7.1-essentials_build-www.gyan.dev

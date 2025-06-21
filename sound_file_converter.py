@@ -1,14 +1,6 @@
 # 
 # Since pydub will remove ID3 tags, call ffmpeg directly
 # 
-# Environment:
-# - Windows 11 Pro
-# - Python 3.12.7
-# - pydub==0.25.1
-# - numpy==2.2.1
-# - matplotlib==3.10.0
-# - ffmpeg version 7.1-essentials_build-www.gyan.dev
-# 
 
 import argparse
 import os
